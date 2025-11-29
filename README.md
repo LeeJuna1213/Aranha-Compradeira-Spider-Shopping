@@ -1,3 +1,4 @@
+![foto-jogo](https://github.com/user-attachments/assets/6710f45b-a4b3-4d77-a1ff-41353914391f)
 # Aranha-Compradeira-Spider-Shopping
 Aranha Compradeira simula uma aranha fazendo compras em um mapa, buscando itens espalhados pelo cenário. O objetivo é coletar todos os itens presentes na lista cadastral, evitando pegar itens que não pertencem à lista — caso isso aconteça, o jogador perde vidas.
 
