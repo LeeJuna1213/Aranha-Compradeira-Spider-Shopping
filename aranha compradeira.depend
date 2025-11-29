@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763339268 source:c:\users\jully\onedrive\desktop\aranha compradeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+
